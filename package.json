@@ -1,6 +1,6 @@
 {
   "name": "sharp",
-  "version": "0.16.2",
+  "version": "0.16.3",
   "author": "Lovell Fuller <npm@lovell.info>",
   "contributors": [
     "Pierre Inglebert <pierre.inglebert@gmail.com>",
@@ -63,7 +63,7 @@
     "color": "^0.11.3",
     "nan": "^2.4.0",
     "semver": "^5.3.0",
-    "request": "^2.75.0",
+    "request": "2.81.0",
     "tar": "^2.2.1"
   },
   "devDependencies": {
